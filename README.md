@@ -1,4 +1,4 @@
-<p align="left">Hey! Just a hobbyst dev here. Nothing else.</p>
+<p align="left">Hey! Just a hobbyist dev here. Nothing else.</p>
 
 ###
 
