@@ -1,7 +1,7 @@
 <p align="left">Hey! Just a hobbyist dev here. Nothing else.</p>
 
 ###
-
+<p align="left">This is my favorite language & tools</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
